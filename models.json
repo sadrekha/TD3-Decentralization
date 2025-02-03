@@ -1,0 +1,10 @@
+{
+  "https://5fc9-89-30-29-68.ngrok-free.app/predict": {
+    "balance": 1000,
+    "weight": 1.0
+  },
+  "https://50da-89-30-29-68.ngrok-free.app/predict": {
+    "balance": 1000,
+    "weight": 1.0
+  }
+}
